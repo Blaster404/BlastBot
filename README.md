@@ -35,6 +35,7 @@ For more info about those use ?tag hosting on bot-commands
 
 # Where i learnt to develop a discord bot.
 Lucas - https://www.youtube.com/channel/UCR-zOCvDCayyYy1flR5qaAg
+<br/>
 Documentary - https://discordpy.readthedocs.io/
 
 # Discord bot invite
