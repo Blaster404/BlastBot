@@ -13,7 +13,7 @@ I will come back later next year with a better bot, for now, this bot is it.
 3. Have fun and run your bot. If you want 24/7 hosting, use a hosting service. For example, replit, or IBM cloud.
 
 If you would like free hosting, this is your best option: Free Hosting with IBM Lite (This text is taken from LucasYT, he makes good discord bot tutorials.
-https://www.ibm.com/cloud/free/
+https://www.ibm.com/cloud/free/ \n
 How to set it up: https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli
 
 You may have also heard from heroku, but you should not use it as it's not only extremely limited on what you can do, but it's also underpowered, which will cause massive performance issues in some processes of your bot.
