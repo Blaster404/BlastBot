@@ -46,7 +46,7 @@ Documentary - https://discordpy.readthedocs.io/
 (will be given later)
 
 # Commands
-Do .cmds for a list of commands.
+Do .help for a list of commands.
 
 # Discord py
 https://github.com/Rapptz/discord.py
