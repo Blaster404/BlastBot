@@ -7,6 +7,7 @@ I decided to create this bot for utility purposes. It's kind of hard to find a u
 I also wanted to work on this project i have been thinking for a long time. I wanted to learn some javascript next year so hopefully i'll come around with a better bot next year! This is my first time making a discord bot by scratch and i wanted to see what it takes to be a bot developer. I know i could've use a api wrapper like pycord or pypi but i decided i will make it simple and use discord py instead.
 I will come back later next year with a better bot, for now, this bot is it.
 NOTE: For now this bot only has utility commands and some commands functionality, and it does not have music functionality, i will update the code if i added a working music function.
+NOTE2: Although this bot doesnt match today's bot standards, please note that this is my first time developing a discord bot. Next year i hope to make a better bot with more functionality to it.
 
 # Steps to import source code and get your bot running
 1. You can use gitclone to import my repo into yours.
