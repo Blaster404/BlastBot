@@ -12,7 +12,7 @@ I will come back later next year with a better bot, for now, this bot is it.
 2. If you are not using git clone, copying and pasting is also fine. Make sure you have a IDE (Visual Studio Code, Atom etc.) make a file named similar to the file names i included and post your code there.
 3. Have fun and run your bot. If you want 24/7 hosting, use a hosting service. For example, replit, or IBM cloud.
 
-If you would like free hosting, this is your best option: Free Hosting with IBM Lite (This text is taken from LucasYT, he makes good discord bot tutorials.
+If you would like free hosting, this is your best option: Free Hosting with IBM Lite (This text is taken from Lucas on youtube, he makes good discord bot tutorials.
 https://www.ibm.com/cloud/free/
 <br/>
 How to set it up: https://cloud.ibm.com/docs/cli?topic=cloud-cli-install-ibmcloud-cli
